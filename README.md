@@ -40,15 +40,24 @@
   - ### System Requirements
     <img width="866" height="410" alt="image" src="https://github.com/user-attachments/assets/11c53c58-16ab-49a6-9c5f-94b55b993156" />
 
+    <img width="843" height="416" alt="image" src="https://github.com/user-attachments/assets/1a1f39ac-50f0-450d-b6fd-61cead9acf0e" />
+
+    <img width="861" height="408" alt="image" src="https://github.com/user-attachments/assets/2df5bfc3-03d5-4320-8fe2-67038ed4559a" />
+
+
+
     
 ## Case Study
   - ### Description
-  
+    본 프로젝트에서는 공항 환경을 가정하여 인물 추적 기반 캐리어 운반 로봇을 구현하였다.  
+    사용자는 웹 페이지를 통해 추적 대상을 지정하고, 로봇은 DeepSORT 기반 추적 알고리즘을 이용해 지정된 인물을 따라 이동한다.  
+    실험은 세종대학교 캠퍼스 내 복도 및 개방된 공간에서 진행되었으며,  
+    로봇은 SLAM을 활용해 실시간 위치를 추정하고, PID 제어를 통해 인물과 일정 거리를 유지하며 이동하도록 설계되었다.  
+    웹 서버(ROSbridge)와 로봇 간 데이터 송수신은 ROS2 메시지 기반으로 이루어졌다.
   
 ## Conclusion
-  - ### OOO
-  - ### OOO
+  
   
 ## Project Outcome
-- ### 20XX 년 OO학술대회 
+- ### 2025 년 전자공학회 하계 학술대회 
 
